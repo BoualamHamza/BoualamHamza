@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoualamHamza
-- 👀 I’m interested in web and softwar developing
+- 👀 I’m interested in web and softwar development
 - 🌱 I’m currently learning ai algorithms
 - 📫 How to reach me : boualamhamzaa@gmail.com
 

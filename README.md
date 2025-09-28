@@ -1,5 +1,5 @@
 #  About Me:
-Hi there! 👋 I'm a data scienctist & researcher. <br><br>I'm always on the lookout for exciting projects and collaborations. I love working with like-minded individuals who share my passion for innovation and growth, and I'm committed to delivering high-quality results that exceed expectations.<br><br>Check out my GitHub repos to see some of my latest projects, or feel free to reach out to me directly to discuss potential partnerships or opportunities. Let's build something amazing together! 🚀<br>
+Hi there! 👋 I'm a data scienctist. <br><br>I'm always on the lookout for exciting projects and collaborations. I love working with like-minded individuals who share my passion for innovation and growth, and I'm committed to delivering high-quality results that exceed expectations.<br><br>Check out my GitHub repos to see some of my latest projects, or feel free to reach out to me directly to discuss potential partnerships or opportunities. Let's build something amazing together! 🚀<br>
 
 
 ##  Socials:
